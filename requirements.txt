@@ -1,0 +1,6 @@
+ipykernel
+contextily==1.2.0
+geopandas==0.12.1
+pandarallel==1.6.1
+pysqlite3==0.4.6
+tqdm==4.64.1

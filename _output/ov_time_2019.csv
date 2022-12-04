@@ -1,0 +1,442 @@
+origin,destination,dist
+Zona Lugano,Zona Locarno,41.98
+Zona Lugano,Zona Bellinzona,26.25
+Zona Lugano,Vallemaggia,57.69
+Zona Lugano,Valle Verzasca,51.34
+Zona Lugano,Stabio,22.19
+Zona Lugano,Sonvico,6.58
+Zona Lugano,Riviera,43.0
+Zona Lugano,Piano di Magadino sponda sinistra,29.84
+Zona Lugano,Piano di Magadino sponda destra,34.31
+Zona Lugano,Pian Scairolo,5.82
+Zona Lugano,Mendrisiotto,18.48
+Zona Lugano,Melide,9.19
+Zona Lugano,Malcantone,10.97
+Zona Lugano,Leventina,64.42
+Zona Lugano,Gambarogno,40.08
+Zona Lugano,Chiasso,23.11
+Zona Lugano,Capriasca,9.67
+Zona Lugano,Blenio,57.24
+Zona Lugano,Basso Vedeggio,7.04
+Zona Lugano,Alto Vedeggio,13.16
+Zona Locarno,Zona Lugano,41.71
+Zona Locarno,Zona Bellinzona,20.65
+Zona Locarno,Vallemaggia,17.74
+Zona Locarno,Valle Verzasca,19.62
+Zona Locarno,Stabio,62.54
+Zona Locarno,Sonvico,46.42
+Zona Locarno,Riviera,38.52
+Zona Locarno,Piano di Magadino sponda sinistra,15.14
+Zona Locarno,Piano di Magadino sponda destra,10.27
+Zona Locarno,Pian Scairolo,44.85
+Zona Locarno,Mendrisiotto,58.62
+Zona Locarno,Melide,48.97
+Zona Locarno,Malcantone,49.36
+Zona Locarno,Leventina,60.19
+Zona Locarno,Gambarogno,10.16
+Zona Locarno,Chiasso,63.49
+Zona Locarno,Capriasca,46.61
+Zona Locarno,Blenio,52.73
+Zona Locarno,Basso Vedeggio,37.86
+Zona Locarno,Alto Vedeggio,34.27
+Zona Bellinzona,Zona Lugano,25.84
+Zona Bellinzona,Zona Locarno,20.66
+Zona Bellinzona,Vallemaggia,36.15
+Zona Bellinzona,Valle Verzasca,29.21
+Zona Bellinzona,Stabio,45.72
+Zona Bellinzona,Sonvico,30.26
+Zona Bellinzona,Riviera,19.05
+Zona Bellinzona,Piano di Magadino sponda sinistra,9.98
+Zona Bellinzona,Piano di Magadino sponda destra,11.23
+Zona Bellinzona,Pian Scairolo,28.95
+Zona Bellinzona,Mendrisiotto,42.02
+Zona Bellinzona,Melide,32.66
+Zona Bellinzona,Malcantone,33.13
+Zona Bellinzona,Leventina,40.81
+Zona Bellinzona,Gambarogno,20.02
+Zona Bellinzona,Chiasso,46.6
+Zona Bellinzona,Capriasca,29.94
+Zona Bellinzona,Blenio,33.24
+Zona Bellinzona,Basso Vedeggio,21.85
+Zona Bellinzona,Alto Vedeggio,17.28
+Vallemaggia,Zona Lugano,62.4
+Vallemaggia,Zona Locarno,17.37
+Vallemaggia,Zona Bellinzona,37.14
+Vallemaggia,Valle Verzasca,34.34
+Vallemaggia,Stabio,81.23
+Vallemaggia,Sonvico,66.72
+Vallemaggia,Riviera,54.86
+Vallemaggia,Piano di Magadino sponda sinistra,30.53
+Vallemaggia,Piano di Magadino sponda destra,25.7
+Vallemaggia,Pian Scairolo,64.93
+Vallemaggia,Mendrisiotto,77.12
+Vallemaggia,Melide,68.03
+Vallemaggia,Malcantone,69.61
+Vallemaggia,Leventina,76.46
+Vallemaggia,Gambarogno,24.23
+Vallemaggia,Chiasso,82.57
+Vallemaggia,Capriasca,64.59
+Vallemaggia,Blenio,68.59
+Vallemaggia,Basso Vedeggio,57.77
+Vallemaggia,Alto Vedeggio,52.54
+Valle Verzasca,Zona Lugano,49.3
+Valle Verzasca,Zona Locarno,19.83
+Valle Verzasca,Zona Bellinzona,30.35
+Valle Verzasca,Vallemaggia,35.42
+Valle Verzasca,Stabio,72.34
+Valle Verzasca,Sonvico,53.88
+Valle Verzasca,Riviera,48.26
+Valle Verzasca,Piano di Magadino sponda sinistra,24.24
+Valle Verzasca,Piano di Magadino sponda destra,18.33
+Valle Verzasca,Pian Scairolo,53.79
+Valle Verzasca,Mendrisiotto,65.88
+Valle Verzasca,Melide,56.32
+Valle Verzasca,Malcantone,56.81
+Valle Verzasca,Leventina,70.02
+Valle Verzasca,Gambarogno,26.55
+Valle Verzasca,Chiasso,70.94
+Valle Verzasca,Capriasca,52.1
+Valle Verzasca,Blenio,62.25
+Valle Verzasca,Basso Vedeggio,44.99
+Valle Verzasca,Alto Vedeggio,40.88
+Stabio,Zona Lugano,22.27
+Stabio,Zona Locarno,60.8
+Stabio,Zona Bellinzona,45.81
+Stabio,Vallemaggia,78.5
+Stabio,Valle Verzasca,69.44
+Stabio,Sonvico,27.07
+Stabio,Riviera,63.47
+Stabio,Piano di Magadino sponda sinistra,48.08
+Stabio,Piano di Magadino sponda destra,54.23
+Stabio,Pian Scairolo,21.72
+Stabio,Mendrisiotto,7.49
+Stabio,Melide,16.48
+Stabio,Malcantone,29.9
+Stabio,Leventina,85.14
+Stabio,Gambarogno,58.49
+Stabio,Chiasso,8.77
+Stabio,Capriasca,28.87
+Stabio,Blenio,77.2
+Stabio,Basso Vedeggio,26.09
+Stabio,Alto Vedeggio,31.59
+Sonvico,Zona Lugano,6.55
+Sonvico,Zona Locarno,45.36
+Sonvico,Zona Bellinzona,30.88
+Sonvico,Vallemaggia,60.9
+Sonvico,Valle Verzasca,54.22
+Sonvico,Stabio,27.32
+Sonvico,Riviera,48.33
+Sonvico,Piano di Magadino sponda sinistra,33.39
+Sonvico,Piano di Magadino sponda destra,39.35
+Sonvico,Pian Scairolo,10.47
+Sonvico,Mendrisiotto,23.36
+Sonvico,Melide,13.88
+Sonvico,Malcantone,16.14
+Sonvico,Leventina,70.09
+Sonvico,Gambarogno,43.37
+Sonvico,Chiasso,28.11
+Sonvico,Capriasca,15.17
+Sonvico,Blenio,62.04
+Sonvico,Basso Vedeggio,11.97
+Sonvico,Alto Vedeggio,17.91
+Riviera,Zona Lugano,42.4
+Riviera,Zona Locarno,38.99
+Riviera,Zona Bellinzona,18.98
+Riviera,Vallemaggia,54.13
+Riviera,Valle Verzasca,47.25
+Riviera,Stabio,63.13
+Riviera,Sonvico,46.65
+Riviera,Piano di Magadino sponda sinistra,27.26
+Riviera,Piano di Magadino sponda destra,29.18
+Riviera,Pian Scairolo,45.89
+Riviera,Mendrisiotto,59.23
+Riviera,Melide,49.91
+Riviera,Malcantone,49.66
+Riviera,Leventina,23.09
+Riviera,Gambarogno,37.36
+Riviera,Chiasso,63.19
+Riviera,Capriasca,47.71
+Riviera,Blenio,15.26
+Riviera,Basso Vedeggio,39.39
+Riviera,Alto Vedeggio,34.59
+Piano di Magadino sponda sinistra,Zona Lugano,28.7
+Piano di Magadino sponda sinistra,Zona Locarno,15.05
+Piano di Magadino sponda sinistra,Zona Bellinzona,10.06
+Piano di Magadino sponda sinistra,Vallemaggia,30.57
+Piano di Magadino sponda sinistra,Valle Verzasca,24.47
+Piano di Magadino sponda sinistra,Stabio,53.08
+Piano di Magadino sponda sinistra,Sonvico,33.21
+Piano di Magadino sponda sinistra,Riviera,27.3
+Piano di Magadino sponda sinistra,Piano di Magadino sponda destra,10.82
+Piano di Magadino sponda sinistra,Pian Scairolo,34.27
+Piano di Magadino sponda sinistra,Mendrisiotto,49.05
+Piano di Magadino sponda sinistra,Melide,40.07
+Piano di Magadino sponda sinistra,Malcantone,36.25
+Piano di Magadino sponda sinistra,Leventina,49.04
+Piano di Magadino sponda sinistra,Gambarogno,11.52
+Piano di Magadino sponda sinistra,Chiasso,54.03
+Piano di Magadino sponda sinistra,Capriasca,33.88
+Piano di Magadino sponda sinistra,Blenio,41.2
+Piano di Magadino sponda sinistra,Basso Vedeggio,25.34
+Piano di Magadino sponda sinistra,Alto Vedeggio,24.21
+Piano di Magadino sponda destra,Zona Lugano,33.9
+Piano di Magadino sponda destra,Zona Locarno,10.25
+Piano di Magadino sponda destra,Zona Bellinzona,11.49
+Piano di Magadino sponda destra,Vallemaggia,25.81
+Piano di Magadino sponda destra,Valle Verzasca,18.26
+Piano di Magadino sponda destra,Stabio,54.54
+Piano di Magadino sponda destra,Sonvico,38.46
+Piano di Magadino sponda destra,Riviera,28.94
+Piano di Magadino sponda destra,Piano di Magadino sponda sinistra,10.0
+Piano di Magadino sponda destra,Pian Scairolo,37.22
+Piano di Magadino sponda destra,Mendrisiotto,50.74
+Piano di Magadino sponda destra,Melide,41.47
+Piano di Magadino sponda destra,Malcantone,41.36
+Piano di Magadino sponda destra,Leventina,50.47
+Piano di Magadino sponda destra,Gambarogno,17.28
+Piano di Magadino sponda destra,Chiasso,55.97
+Piano di Magadino sponda destra,Capriasca,38.94
+Piano di Magadino sponda destra,Blenio,43.13
+Piano di Magadino sponda destra,Basso Vedeggio,30.27
+Piano di Magadino sponda destra,Alto Vedeggio,26.4
+Pian Scairolo,Zona Lugano,5.82
+Pian Scairolo,Zona Locarno,44.59
+Pian Scairolo,Zona Bellinzona,29.46
+Pian Scairolo,Vallemaggia,60.59
+Pian Scairolo,Valle Verzasca,53.34
+Pian Scairolo,Stabio,21.85
+Pian Scairolo,Sonvico,10.48
+Pian Scairolo,Riviera,46.8
+Pian Scairolo,Piano di Magadino sponda sinistra,32.37
+Pian Scairolo,Piano di Magadino sponda destra,37.95
+Pian Scairolo,Mendrisiotto,17.88
+Pian Scairolo,Melide,8.08
+Pian Scairolo,Malcantone,11.67
+Pian Scairolo,Leventina,68.31
+Pian Scairolo,Gambarogno,42.43
+Pian Scairolo,Chiasso,23.07
+Pian Scairolo,Capriasca,13.35
+Pian Scairolo,Blenio,60.74
+Pian Scairolo,Basso Vedeggio,10.1
+Pian Scairolo,Alto Vedeggio,15.76
+Mendrisiotto,Zona Lugano,18.42
+Mendrisiotto,Zona Locarno,56.43
+Mendrisiotto,Zona Bellinzona,41.93
+Mendrisiotto,Vallemaggia,72.07
+Mendrisiotto,Valle Verzasca,65.26
+Mendrisiotto,Stabio,7.49
+Mendrisiotto,Sonvico,22.88
+Mendrisiotto,Riviera,59.24
+Mendrisiotto,Piano di Magadino sponda sinistra,44.28
+Mendrisiotto,Piano di Magadino sponda destra,50.09
+Mendrisiotto,Pian Scairolo,17.54
+Mendrisiotto,Melide,12.42
+Mendrisiotto,Malcantone,26.01
+Mendrisiotto,Leventina,81.01
+Mendrisiotto,Gambarogno,54.31
+Mendrisiotto,Chiasso,8.16
+Mendrisiotto,Capriasca,25.09
+Mendrisiotto,Blenio,73.04
+Mendrisiotto,Basso Vedeggio,22.2
+Mendrisiotto,Alto Vedeggio,27.65
+Melide,Zona Lugano,9.3
+Melide,Zona Locarno,47.58
+Melide,Zona Bellinzona,33.04
+Melide,Vallemaggia,63.32
+Melide,Valle Verzasca,56.36
+Melide,Stabio,16.67
+Melide,Sonvico,13.91
+Melide,Riviera,50.34
+Melide,Piano di Magadino sponda sinistra,35.39
+Melide,Piano di Magadino sponda destra,41.2
+Melide,Pian Scairolo,8.24
+Melide,Mendrisiotto,12.83
+Melide,Malcantone,16.44
+Melide,Leventina,72.09
+Melide,Gambarogno,45.42
+Melide,Chiasso,18.06
+Melide,Capriasca,16.35
+Melide,Blenio,64.08
+Melide,Basso Vedeggio,13.25
+Melide,Alto Vedeggio,18.78
+Malcantone,Zona Lugano,11.36
+Malcantone,Zona Locarno,49.61
+Malcantone,Zona Bellinzona,34.99
+Malcantone,Vallemaggia,65.29
+Malcantone,Valle Verzasca,58.38
+Malcantone,Stabio,29.88
+Malcantone,Sonvico,16.05
+Malcantone,Riviera,52.37
+Malcantone,Piano di Magadino sponda sinistra,37.34
+Malcantone,Piano di Magadino sponda destra,43.2
+Malcantone,Pian Scairolo,12.26
+Malcantone,Mendrisiotto,26.25
+Malcantone,Melide,15.76
+Malcantone,Leventina,74.08
+Malcantone,Gambarogno,47.34
+Malcantone,Chiasso,31.27
+Malcantone,Capriasca,17.84
+Malcantone,Blenio,66.09
+Malcantone,Basso Vedeggio,13.15
+Malcantone,Alto Vedeggio,20.64
+Leventina,Zona Lugano,63.94
+Leventina,Zona Locarno,60.01
+Leventina,Zona Bellinzona,40.77
+Leventina,Vallemaggia,75.01
+Leventina,Valle Verzasca,68.26
+Leventina,Stabio,84.57
+Leventina,Sonvico,68.21
+Leventina,Riviera,23.03
+Leventina,Piano di Magadino sponda sinistra,49.0
+Leventina,Piano di Magadino sponda destra,50.25
+Leventina,Pian Scairolo,67.42
+Leventina,Mendrisiotto,80.68
+Leventina,Melide,71.37
+Leventina,Malcantone,71.21
+Leventina,Gambarogno,59.04
+Leventina,Chiasso,85.44
+Leventina,Capriasca,68.65
+Leventina,Blenio,32.57
+Leventina,Basso Vedeggio,60.69
+Leventina,Alto Vedeggio,56.29
+Gambarogno,Zona Lugano,39.03
+Gambarogno,Zona Locarno,11.28
+Gambarogno,Zona Bellinzona,20.15
+Gambarogno,Vallemaggia,24.59
+Gambarogno,Valle Verzasca,30.17
+Gambarogno,Stabio,64.19
+Gambarogno,Sonvico,43.5
+Gambarogno,Riviera,37.2
+Gambarogno,Piano di Magadino sponda sinistra,11.27
+Gambarogno,Piano di Magadino sponda destra,17.93
+Gambarogno,Pian Scairolo,45.12
+Gambarogno,Mendrisiotto,60.38
+Gambarogno,Melide,51.48
+Gambarogno,Malcantone,46.16
+Gambarogno,Leventina,59.0
+Gambarogno,Chiasso,65.57
+Gambarogno,Capriasca,43.82
+Gambarogno,Blenio,51.11
+Gambarogno,Basso Vedeggio,35.46
+Gambarogno,Alto Vedeggio,35.75
+Chiasso,Zona Lugano,23.13
+Chiasso,Zona Locarno,61.56
+Chiasso,Zona Bellinzona,46.14
+Chiasso,Vallemaggia,77.15
+Chiasso,Valle Verzasca,70.44
+Chiasso,Stabio,8.46
+Chiasso,Sonvico,27.92
+Chiasso,Riviera,63.49
+Chiasso,Piano di Magadino sponda sinistra,49.43
+Chiasso,Piano di Magadino sponda destra,54.5
+Chiasso,Pian Scairolo,22.68
+Chiasso,Mendrisiotto,8.12
+Chiasso,Melide,17.04
+Chiasso,Malcantone,30.85
+Chiasso,Leventina,84.7
+Chiasso,Gambarogno,59.53
+Chiasso,Capriasca,29.87
+Chiasso,Blenio,78.14
+Chiasso,Basso Vedeggio,27.18
+Chiasso,Alto Vedeggio,32.81
+Capriasca,Zona Lugano,9.67
+Capriasca,Zona Locarno,47.28
+Capriasca,Zona Bellinzona,32.35
+Capriasca,Vallemaggia,64.95
+Capriasca,Valle Verzasca,55.58
+Capriasca,Stabio,28.86
+Capriasca,Sonvico,14.3
+Capriasca,Riviera,49.91
+Capriasca,Piano di Magadino sponda sinistra,34.7
+Capriasca,Piano di Magadino sponda destra,40.68
+Capriasca,Pian Scairolo,13.49
+Capriasca,Mendrisiotto,25.13
+Capriasca,Melide,16.16
+Capriasca,Malcantone,17.93
+Capriasca,Leventina,71.36
+Capriasca,Gambarogno,45.29
+Capriasca,Chiasso,30.2
+Capriasca,Blenio,63.81
+Capriasca,Basso Vedeggio,10.78
+Capriasca,Alto Vedeggio,15.56
+Blenio,Zona Lugano,55.9
+Blenio,Zona Locarno,53.25
+Blenio,Zona Bellinzona,33.29
+Blenio,Vallemaggia,68.56
+Blenio,Valle Verzasca,62.09
+Blenio,Stabio,77.44
+Blenio,Sonvico,60.08
+Blenio,Riviera,15.22
+Blenio,Piano di Magadino sponda sinistra,41.14
+Blenio,Piano di Magadino sponda destra,43.33
+Blenio,Pian Scairolo,60.19
+Blenio,Mendrisiotto,73.07
+Blenio,Melide,63.92
+Blenio,Malcantone,63.27
+Blenio,Leventina,33.39
+Blenio,Gambarogno,51.25
+Blenio,Chiasso,76.67
+Blenio,Capriasca,59.22
+Blenio,Basso Vedeggio,53.67
+Blenio,Alto Vedeggio,48.4
+Basso Vedeggio,Zona Lugano,6.9
+Basso Vedeggio,Zona Locarno,36.79
+Basso Vedeggio,Zona Bellinzona,22.33
+Basso Vedeggio,Vallemaggia,52.5
+Basso Vedeggio,Valle Verzasca,45.6
+Basso Vedeggio,Stabio,26.06
+Basso Vedeggio,Sonvico,11.8
+Basso Vedeggio,Riviera,39.71
+Basso Vedeggio,Piano di Magadino sponda sinistra,24.68
+Basso Vedeggio,Piano di Magadino sponda destra,30.51
+Basso Vedeggio,Pian Scairolo,10.09
+Basso Vedeggio,Mendrisiotto,22.41
+Basso Vedeggio,Melide,13.16
+Basso Vedeggio,Malcantone,12.77
+Basso Vedeggio,Leventina,61.27
+Basso Vedeggio,Gambarogno,34.62
+Basso Vedeggio,Chiasso,27.35
+Basso Vedeggio,Capriasca,10.09
+Basso Vedeggio,Blenio,53.46
+Basso Vedeggio,Alto Vedeggio,8.38
+Alto Vedeggio,Zona Lugano,13.15
+Alto Vedeggio,Zona Locarno,31.96
+Alto Vedeggio,Zona Bellinzona,17.5
+Alto Vedeggio,Vallemaggia,47.47
+Alto Vedeggio,Valle Verzasca,40.79
+Alto Vedeggio,Stabio,31.54
+Alto Vedeggio,Sonvico,17.67
+Alto Vedeggio,Riviera,34.75
+Alto Vedeggio,Piano di Magadino sponda sinistra,19.84
+Alto Vedeggio,Piano di Magadino sponda destra,25.6
+Alto Vedeggio,Pian Scairolo,15.59
+Alto Vedeggio,Mendrisiotto,27.86
+Alto Vedeggio,Melide,18.65
+Alto Vedeggio,Malcantone,20.4
+Alto Vedeggio,Leventina,56.57
+Alto Vedeggio,Gambarogno,29.94
+Alto Vedeggio,Chiasso,32.9
+Alto Vedeggio,Capriasca,15.11
+Alto Vedeggio,Blenio,48.58
+Alto Vedeggio,Basso Vedeggio,8.34
+Zona Lugano,Zona Lugano,2.91
+Zona Locarno,Zona Locarno,4.48
+Zona Bellinzona,Zona Bellinzona,4.22
+Vallemaggia,Vallemaggia,12.85
+Valle Verzasca,Valle Verzasca,8.09
+Stabio,Stabio,1.79
+Sonvico,Sonvico,2.55
+Riviera,Riviera,4.35
+Piano di Magadino sponda sinistra,Piano di Magadino sponda sinistra,3.93
+Piano di Magadino sponda destra,Piano di Magadino sponda destra,3.08
+Pian Scairolo,Pian Scairolo,3.9
+Mendrisiotto,Mendrisiotto,6.01
+Melide,Melide,3.1
+Malcantone,Malcantone,4.88
+Leventina,Leventina,13.89
+Gambarogno,Gambarogno,3.39
+Chiasso,Chiasso,3.0
+Capriasca,Capriasca,3.04
+Blenio,Blenio,8.16
+Basso Vedeggio,Basso Vedeggio,2.61
+Alto Vedeggio,Alto Vedeggio,5.41
